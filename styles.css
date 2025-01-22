@@ -38,7 +38,7 @@ nav ul li a {
     font-weight: bold;
     padding: 5px 10px;
     border-radius: 5px;
-    transition: background 0.3s;
+    transition: background 2.0s;
 }
 
 nav ul li a:hover {
