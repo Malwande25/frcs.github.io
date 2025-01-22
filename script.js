@@ -14,4 +14,4 @@ function nextSlide() {
 
 // Initialize the slideshow
 showSlide(currentIndex);
-setInterval(nextSlide, 3000); // Change slide every 3 seconds
+setInterval(nextSlide, 7000); // Change slide every 7 seconds
